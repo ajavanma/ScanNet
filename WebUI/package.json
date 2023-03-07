@@ -33,7 +33,7 @@
     "express-winston": "^2.0.x",
     "feathers": "^2.0.1",
     "feathers-authentication": "^0.7.9",
-    "feathers-configuration": "^0.2.3",
+    "feathers-configuration": "^0.4.2",
     "feathers-errors": "^2.4.0",
     "feathers-hooks": "^1.5.7",
     "feathers-nedb": "^2.5.1",
