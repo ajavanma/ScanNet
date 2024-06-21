@@ -39,7 +39,7 @@
     "feathers-nedb": "^2.5.1",
     "feathers-rest": "^1.4.4",
     "feathers-sequelize": "^1.3.2",
-    "feathers-socketio": "^1.4.1",
+    "feathers-socketio": "^2.0.1",
     "jade": "^1.11.0",
     "lodash": "^4.15.0",
     "nedb": "^1.8.0",
